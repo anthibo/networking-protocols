@@ -23,11 +23,11 @@ Start the server
 Connect to the udp server and send a message:
 
 ```bash
-nc -u 127.0.0.1 5500
+  nc -u 127.0.0.1 5500
 ```
 then send a message 
 ```
-Anthibo is here
+  Anthibo is here
 ```
 
 Server output:
